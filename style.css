@@ -1,0 +1,74 @@
+body
+{
+    background-color:paleturquoise;
+}
+.container
+{
+    
+
+    padding: 2em;
+    background-color:palevioletred;
+    color: white;
+    width: fit-content;
+    margin: 10% auto;
+
+}
+h1
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+h2
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:darkblue;
+}
+h3
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+}
+.number
+{
+    background-color:crimson;
+
+    margin-left: 7rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border: none;
+    font-size: 2rem;
+    border-bottom: solid;
+    border-color: white;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    width: 10%;
+
+
+}
+#ans
+{
+    text-align: center;
+    font-size: 2rem;
+
+}
+label
+{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: black;
+    font-weight: 200;
+
+}
+input[type="submit"]
+{
+    border: none;
+    background-color:palegreen;
+    font-size: 1rem;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+}
